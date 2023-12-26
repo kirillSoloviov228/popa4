@@ -1,2 +1,3 @@
 "Hello, World!" 
 "New feature in var branch" 
+"Another feature in var branch" 
